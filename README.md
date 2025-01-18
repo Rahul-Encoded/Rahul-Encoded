@@ -154,7 +154,7 @@ let rahul = {
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=✍️+Somebody+cooked+here+😜" alt="Typing SVG">
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?type=vertical&hideBorder&theme=gotham&qColor=%23944bcc&aColor=%23bbdb51)
+![Jokes Card](https://readme-jokes.vercel.app/api?type=vertical&hideBorder&theme=gotham&qColor=%2300FFFF&aColor=%2300FF00)
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
