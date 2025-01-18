@@ -122,7 +122,7 @@ let rahul = {
   </a>
   
   <a href="https://x.com/rahulencoded/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X logo"  />
   </a>
 </div>
 
