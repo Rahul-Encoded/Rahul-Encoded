@@ -190,5 +190,5 @@ const rahul = {
 ---
 </div>
 
-# 🐍 Snake eating my Github commits
+# 🐍 Snake eating up my Github commits
 <img src="https://raw.githubusercontent.com/Rahul-Encoded/Rahul-Encoded/output/snake.svg" alt="Snake animation" />
