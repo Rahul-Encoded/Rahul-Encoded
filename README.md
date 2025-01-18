@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=Welcome+to+Rahul's+GitHub+Profile!;Curious+,+Creative+,+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhsZDk2dGp3NGlua2plcmxidnUzZ2ZvZGxud2MzNm5mOXFpc3BlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" width="100%" height="200"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=Welcome+to+RahuL's+GitHub+Profile!;Curious+,+Creative+,+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
 
 ---
 
@@ -25,6 +27,9 @@ let rahul = {
   myMindset: "Jack of all trades, master of none, but oftentimes better than master of one."
 };
 ```
+
+--- 
+
 
 ---
 
@@ -151,6 +156,8 @@ let rahul = {
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=✍️+Somebody+cooked+here+😜" alt="Typing SVG">
 <div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?type=vertical&hideBorder&theme=gotham&qColor=%23944bcc&aColor=%23bbdb51)
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
@@ -160,3 +167,7 @@ let rahul = {
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🐍+Snake+eating+up+OUR+🤨+GitHub+commits" alt="Typing SVG"> 
                        
 <img src="https://raw.githubusercontent.com/Rahul-Encoded/Rahul-Encoded/output/snake.svg" alt="Snake animation" />
+
+---
+Let's meet again someday👋🏻
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm85MHhjenZtNXUyaHZ3YXRmeDlpMXRvY2h5NHM0ajR4cXk3OHk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uho05vACGIjMk/giphy.gif" width="100%" height="200"/>
