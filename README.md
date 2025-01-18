@@ -8,10 +8,7 @@ const rahul = {
   pronouns: "he | him",
   code: ["C/C++", "Python", "JavaScript", "Java", "MATLAB"],
   proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
-  interests: [
-    "Data Science/AI/ML", "Generative AI", "Electronics",
-    "Robotics", "Computer Vision", "Game Development", "Ethical Hacking"
-  ],
+  interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision", "Game Development", "Ethical Hacking"],
   currently_learning: ["Data Science/AI/ML"],
   technologies: {
     frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
