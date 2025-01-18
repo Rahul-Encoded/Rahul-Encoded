@@ -30,9 +30,6 @@ let rahul = {
 
 --- 
 
-
----
-
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🧑🏻‍💻+Technologies+I+can+cook+with" alt="Typing SVG">
 
 <div align="center">
