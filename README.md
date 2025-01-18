@@ -5,7 +5,7 @@
   
   <br>
 
-  <pre style="background: black; color: lime; padding: 1em; border-radius: 8px; font-size: 14px;">
+  <pre style="color: green; padding: 1em; border-radius: 8px; font-size: 14px;">
                        ::::::::::::::::::::::::::::::::::::-+*#####%%%%##*+-:::::::::::::::::::::::::::          
                        :::::::::::::::::::::::::::::::-+**######%%%%%%%%%%%%%#*=:::::::::::::::::::::::          
                        ::::::::::::::::::::::::::::-+#%%%%%%%%%%%%%%%%%%%%%%%%%%#=-::::::::::::::::::::          
@@ -23,7 +23,7 @@
                        :::::::::::::::::::::::-=***+--==++++++**+=++==++**+++==+++++===+-::::::::::::::          
                        :::::::::::::::::::::::=+=+#+===+**=###++*+=+===+**+*=#*#**#*+=+-=*+::::::::::::          
                        :::::::::::::::::::::::-+=+*+=========+++=*=+====+++===++++++===::-:::::::::::::          
-                       :::::::::::::::::::::::-===*=---------==--====-==+============-:-::::::::::::::          
+                       :::::::::::::::::::::::-===*=---------==--====-==+============-:-:::::::::::::::          
                        :::::::::::::::::::::::-==+*===---------=+==-----==++=----=====--:::::::::::::::          
                        ::::::::::::::::::::::::-==*=====-----===---==--==+===+=-========:::::::::::::::          
                        ::::::::::::::::::::::::--=*+=====----=-==+++=+++**+++=========+=:::::::::::::::          
@@ -40,13 +40,13 @@
                        ::::::::::::::::::::::::::::::-==============+++++++++++++=+++====::::::::::::::          
                        ::::::::::::::::::::::::::::::::-===========++++++++++++=========-::::::::::::::          
                        ::::::::::::::::::::::::::::::::::-==============================:::::::::::::::          
-                       ::::::::::::::::::::::::::::::::::::--===================-------:::::::::::::::  
+                       ::::::::::::::::::::::::::::::::::::--===================-------:::::::::::::::: 
   </pre>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 ```js
 const rahul = {
   pronouns: "he | him",
@@ -72,7 +72,7 @@ const rahul = {
 
 <div align="center">
   <!-- Frontend Development -->
-  <h3>Frontend Development</h3>
+  <h2>Frontend Development</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -86,7 +86,7 @@ const rahul = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   
   <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
+  <h2>Programming Languages</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -100,7 +100,7 @@ const rahul = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   
   <!-- Backend Development -->
-  <h3>Backend Development</h3>
+  <h2>Backend Development</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -115,7 +115,7 @@ const rahul = {
   <img width="12" />
   
   <!-- Data Science / AI / Scientific Computing -->
-  <h3>Data Science / AI / Scientific Computing</h3>
+  <h2>Data Science / AI / Scientific Computing</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -125,28 +125,28 @@ const rahul = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   
   <!-- Version Control -->
-  <h3>Version Control</h3>
+  <h2>Version Control</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   
   <!-- Operating System / DevOps -->
-  <h3>Operating System / DevOps</h3>
+  <h2>Operating System / DevOps</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   
   <!-- 3D Modeling / IoT -->
-  <h3>3D Modeling</h3>
+  <h2>3D Modeling</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
 
-  <h3>IoT</h3>
+  <h2>IoT</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   
   <!-- Integrated Development Environment -->
-  <h3>Integrated Development Environment</h3>
+  <h2>Integrated Development Environment</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
@@ -154,7 +154,7 @@ const rahul = {
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulstack/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -163,26 +163,31 @@ const rahul = {
 
 ---
 
-## 🏆 GitHub Achievements
-<div align="center">
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahul-Encoded" alt="Rahul-Encoded" /></a></p>  
-  <img src="https://profile-counter.glitch.me/Rahul-Encoded/count.svg?"  />
-</div>
 
-###
-
+# 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Encoded&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Encoded&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rahul-Encoded&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Encoded&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Encoded&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rahul-Encoded&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 👁️ Profile Views
+<img src="https://profile-counter.glitch.me/Rahul-Encoded/count.svg?"  />
 
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)">
+---
 </div>
 
+# ✍️ Random Dev Quote
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+</div>
 ---
 
 <img src="https://raw.githubusercontent.com/Rahul-Encoded/Rahul-Encoded/output/snake.svg" alt="Snake animation" />
