@@ -1,45 +1,39 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2AA79B&width=800&lines=Welcome+to+Rahul's+GitHub+Profile!;Empowering+Creativity+%7C+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=Welcome+to+Rahul's+GitHub+Profile!;Curious+,+Creative+,+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
 ```js
-const rahul = {
+let rahul = {
   pronouns: "he | him",
   code: ["C/C++", "Python", "JavaScript", "Java", "MATLAB"],
   proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
   interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision", "Game Development", "Ethical Hacking"],
   currently_learning: ["Data Science/AI/ML"],
   technologies: {
-    frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
-    backEnd: ["MongoDB", "MySQL", "Prisma", "Express.js", "Node.js"]
+    webDevelopment:{
+      frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
+      backEnd: ["MongoDB", "MySQL", "Prisma", "Express.js", "Node.js"],
+    },
+    dataAnalysis: {
+      libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn"]
+    },
+    IoT: ["Raspberry Pi", "Proteus Design Suite"],
+    otherTools: ["Git/Github", "Linux", "Blender"],
   },
-  dataAnalysis: { libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn"] },
-  IoT: ["Raspberry Pi", "Proteus Design Suite"],
-  otherTools: ["Git/Github", "Linux", "Blender"],
-  hobbies: ["writing poetry", "sketching", "gaming", "football"],
+  hobbies: ["writing poetry", "sketching", "reading mangas, manhwas, manhuas", "animes", "playing story-driven games", "football"],
   myMindset: "Jack of all trades, master of none, but oftentimes better than master of one."
 };
 ```
 
+---
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🧑🏻‍💻+Technologies+I+can+cook+with" alt="Typing SVG">
 
 <div align="center">
-  <!-- Frontend Development -->
-  <h2>Frontend Development</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   
   <!-- Programming Languages -->
-  <h2>Programming Languages</h2>
+  <h3>Programming Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -52,8 +46,22 @@ const rahul = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  
   <!-- Backend Development -->
-  <h2>Backend Development</h2>
+  <h3>Backend Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -68,7 +76,7 @@ const rahul = {
   <img width="12" />
   
   <!-- Data Science / AI / Scientific Computing -->
-  <h2>Data Analysis</h2>
+  <h3>Data Analysis</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -78,28 +86,28 @@ const rahul = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   
   <!-- Version Control -->
-  <h2>Version Control</h2>
+  <h3>Version Control</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   
   <!-- Operating System / DevOps -->
-  <h2>Operating System / DevOps</h2>
+  <h3>Operating System / DevOps</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   
   <!-- 3D Modeling / IoT -->
-  <h2>3D Modeling</h2>
+  <h3>3D Modeling</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
 
-  <h2>IoT</h2>
+  <h3>IoT</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   
   <!-- Integrated Development Environment -->
-  <h2>Integrated Development Environment</h2>
+  <h3>Integrated Development Environment</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
@@ -107,35 +115,41 @@ const rahul = {
 
 ---
 
-# 🌐 Connect With Me
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🌏+Cook+With+Me" alt="Typing SVG">
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulstack/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://x.com/rahulencoded/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
 ---
 
 
-# 🏆 GitHub Achievements
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🏆+GitHub+Achievements" alt="Typing SVG">
 <div align="center">
 
-## 📊 GitHub Stats:
+<h3> 📊 GitHub Stats: </h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=Rahul-Encoded&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Encoded&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Encoded&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<h3> 🏆 GitHub Trophies: </h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Encoded&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## 👁️ Profile Views
+<h3> 👁️ Profile Views: </h3>
 <img src="https://profile-counter.glitch.me/Rahul-Encoded/count.svg?"  />
 
 ---
 </div>
 
-# ✍️ Random Dev Quote
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=✍️+Somebody+cooked+here+😜" alt="Typing SVG">
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
@@ -143,6 +157,6 @@ const rahul = {
 ---
 </div>
 
-# 🐍 Snake eating up my Github commits
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=🐍+Snake+eating+up+OUR+🤨+GitHub+commits" alt="Typing SVG"> 
                        
 <img src="https://raw.githubusercontent.com/Rahul-Encoded/Rahul-Encoded/output/snake.svg" alt="Snake animation" />
