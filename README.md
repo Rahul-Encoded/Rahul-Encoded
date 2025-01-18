@@ -1,7 +1,5 @@
-<!-- Animated and Enhanced GitHub Profile README -->
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2AA79B&width=800&lines=Welcome+to+Rahul's+GitHub+Profile!;Empowering+Creativity+%7C+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
-  
+
 ---
 
 # 👨‍💻 About Me
