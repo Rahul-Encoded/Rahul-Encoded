@@ -115,7 +115,7 @@ const rahul = {
   <img width="12" />
   
   <!-- Data Science / AI / Scientific Computing -->
-  <h2>Data Science / AI / Scientific Computing</h2>
+  <h2>Data Analysis</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
