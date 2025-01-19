@@ -4,7 +4,7 @@
 
 ---
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
 ```js
 let rahul = {
   pronouns: "he | him",
