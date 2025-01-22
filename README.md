@@ -6,27 +6,27 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
 ```cpp
-...............:;+xXX$$$Xx;:...........    let rahul = {
-.............:+X$$$$$$$$$$$X+:.........      pronouns: "he | him",
-...........:;x$$$$$$$$$$$$$$$$+:.......      code: ["C/C++", "Python", "JavaScript", "Java", "MATLAB"],
-..........:+X$$$$$$$$$$$$$$$$$$X:......      proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
-.........:xX$$$$X+;++xX$$$$$$$$$x:.....      interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision", "Game Development", "Ethical Hacking"],
-..........;X$$X+;;;;;;+x$$$$$$$$x:.....      currently_learning: ["Data Science/AI/ML"],
-..........:+$Xx;;;;::;;;+xXXX$$$;:.....      technologies: {
-...........;Xx;;+xxxx;;;+xX$Xxxx:......        webDevelopment:{
-...........:xx;;;;++++++xx++++;;:......          frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
-..........:;++;;++xx++;++++xx+;:::.....          backEnd: ["MongoDB", "MySQL", "Prisma", "Express.js", "Node.js"],
-...........:;+;;::;;;;;;+;;;;;;:.......        },
-...........:;+;;:::;;;:;;;;;;;;::......        dataAnalysis: {
-............:++;;;;;;++++++;;;+:.......          libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn"]
-.............;x+;;++x+++xxxx+++:.......        },
-.............:;x+++++++++xxx+x:........        IoT: ["Raspberry Pi", "Proteus Design Suite"],
-..............:;xx++;++x++xxx;:........        otherTools: ["Git/Github", "Linux", "Blender"],
-.............:;;+xXxx++++xXX+::........      },
-.............:++;;++xXXXXXx++++;:......      hobbies: ["writing poetry", "sketching", "reading mangas, manhwas, manhuas", "animes", "playing story-driven games", "football"],
-..............:;;;;;;++++++++++;:......      myMindset: "Jack of all trades, master of none, but oftentimes better than master of one."
-...............:;;;;;++++++;;;;;:......    };
-.................:;;;;;;;;;;;;::.......
+      :;+xXX$$$Xx;:       let rahul = {
+    :+X$$$$$$$$$$$X+:       pronouns: "he | him",
+  :;x$$$$$$$$$$$$$$$$+:     code: ["C/C++", "Python", "JavaScript", "Java", "MATLAB"],
+ :+X$$$$$$$$$$$$$$$$$$X:    proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
+:xX$$$$X+;++xX$$$$$$$$$x:   interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision", "Game Development", "Ethical Hacking"],
+ ;X$$X+;;;;;;+x$$$$$$$$x:   currently_learning: ["Data Science/AI/ML"],
+ :+$Xx;;;;::;;;+xXXX$$$;:   technologies: {
+  ;Xx;;+xxxx;;;+xX$Xxxx:      webDevelopment:{
+  :xx;;;;++++++xx++++;;:        frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
+ :;++;;++xx++;++++xx+;:::       backEnd: ["MongoDB", "MySQL", "Prisma", "Express.js", "Node.js"],
+  :;+;;::;;;;;;+;;;;;;:       },
+  :;+;;:::;;;:;;;;;;;;::      dataAnalysis: {
+   :++;;;;;;++++++;;;+:         libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn"]
+    ;x+;;++x+++xxxx+++:       },
+    :;x+++++++++xxx+x:        IoT: ["Raspberry Pi", "Proteus Design Suite"],
+     :;xx++;++x++xxx;:        otherTools: ["Git/Github", "Linux", "Blender"],
+    :;;+xXxx++++xXX+::      },
+    :++;;++xXXXXXx++++;:    hobbies: ["writing poetry", "sketching", "reading mangas, manhwas, manhuas", "animes", "playing story-driven games", "football"],
+     :;;;;;;++++++++++;:    myMindset: "Jack of all trades, master of none, but oftentimes better than master of one."
+      :;;;;;++++++;;;;;:  };
+       :;;;;;;;;;;;;::
 ```
 
 --- 
