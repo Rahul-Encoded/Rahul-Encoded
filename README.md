@@ -8,7 +8,7 @@
 ```cpp
       :;+xXX$$$Xx;:       let rahul = {
     :+X$$$$$$$$$$$X+:       pronouns: "he | him",
-  :;x$$$$$$$$$$$$$$$$+:     code: ["C/C++", "Python", "JavaScript", "Java", "MATLAB"],
+  :;x$$$$$$$$$$$$$$$$+:     code: ["C/C++", "Python", "JavaScript", "TypeScript",  "Java", "MATLAB"],
  :+X$$$$$$$$$$$$$$$$$$X:    proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
 :xX$$$$X+;++xX$$$$$$$$$x:   interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision", "Game Development", "Ethical Hacking"],
  ;X$$X+;;;;;;+x$$$$$$$$x:   currently_learning: ["Data Science/AI/ML"],
