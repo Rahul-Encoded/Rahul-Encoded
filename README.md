@@ -18,7 +18,7 @@
  :;++;;++xx++;++++xx+;:::       backEnd: ["MongoDB", "MySQL", "Prisma", "Express.js", "Node.js"],
   :;+;;::;;;;;;+;;;;;;:       },
   :;+;;:::;;;:;;;;;;;;::      dataAnalysis: {
-   :++;;;;;;++++++;;;+:         libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn"]
+   :++;;;;;;++++++;;;+:         libraries: ["numpy", "pandas", "scikit-learn", "Matplotlib", "Seaborn", "MS Excel/ Google Sheets", "PowerBI"]
     ;x+;;++x+++xxxx+++:       },
     :;x+++++++++xxx+x:        IoT: ["Raspberry Pi", "Proteus Design Suite"],
      :;xx++;++x++xxx;:        otherTools: ["Git/Github", "Linux", "Blender"],
@@ -87,16 +87,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
   
-  <!-- Version Control -->
-  <h3>Version Control</h3>
+  <!-- Operating System / DevOps -->
+  <h3> DevOps</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  
-  <!-- Operating System / DevOps -->
-  <h3>Operating System / DevOps</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   
   <!-- 3D Modeling / IoT -->
