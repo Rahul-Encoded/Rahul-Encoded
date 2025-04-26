@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=Welcome+to+RahuL's+GitHub+Profile!;Curious+,+Creative+,+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
 
 ---
+Portfolio: <a href="https://rahulstack.vercel.app/">RahulStack</a>
+---
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
 ```cpp
