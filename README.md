@@ -6,6 +6,7 @@
 <div align="center">
       <a href="https://rahulstack.vercel.app/">My Portfolio</a>
 </div>
+
 ---
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=👨‍💻+About+Me" alt="Typing SVG">
