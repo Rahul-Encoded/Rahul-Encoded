@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhsZDk2dGp3NGlua2plcmxidnUzZ2ZvZGxud2MzNm5mOXFpc3BlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" width="100%" height="200"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhsZDk2dGp3NGlua2plcmxidnUzZ2ZvZGxud2MzNm5mOXFpc3BlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" width="100%" height="100"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=Welcome+to+RahuL's+GitHub+Profile!;Curious+,+Creative+,+Tech+Enthusiast;Always+Learning+%26+Building+Awesome+Stuff!" alt="Typing SVG">
 
