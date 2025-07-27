@@ -127,8 +127,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Encoded&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<h3> 👁️ Profile Views: </h3>
-<img src="https://profile-counter.glitch.me/Rahul-Encoded/count.svg?"  />
 
 ---
 </div>
