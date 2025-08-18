@@ -16,7 +16,7 @@
   :;x$$$$$$$$$$$$$$$$+:     code: ["C/C++", "Python", "JavaScript", "TypeScript",  "Java", "MATLAB"],
  :+X$$$$$$$$$$$$$$$$$$X:    proficient: ["Web Development", "Data Analysis", "IoT", "DSA"],
 :xX$$$$X+;++xX$$$$$$$$$x:   interests: ["Data Science/AI/ML", "Generative AI", "Electronics","Robotics", "Computer Vision","NLP" ,"Game Development", "Ethical Hacking"],
- ;X$$X+;;;;;;+x$$$$$$$$x:   currently_learning: ["Data Science/AI/ML", "Generative AI],
+ ;X$$X+;;;;;;+x$$$$$$$$x:   currently_learning: ["Data Science/AI/ML", "Generative AI"],
  :+$Xx;;;;::;;;+xXXX$$$;:   technologies: {
   ;Xx;;+xxxx;;;+xX$Xxxx:      webDevelopment:{
   :xx;;;;++++++xx++++;;:        frontEnd: ["HTML", "CSS", "JS", "tailwindCSS", "React.js", "Next.js", "Shadcn UI", "Figma", "Framer"],
