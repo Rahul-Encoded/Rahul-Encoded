@@ -127,8 +127,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Encoded&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
----
 </div>
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2a903c&width=800&lines=✍️+Somebody+cooked+here+😜" alt="Typing SVG">
